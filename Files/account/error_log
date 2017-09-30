@@ -1,0 +1,4 @@
+[15-Jan-2017 05:19:49 Asia/Dhaka] PHP Notice:  Undefined variable: amount in /home/rexbdnet/public_html/idealbrothers/wallet/account/requestsend.php on line 101
+[15-Jan-2017 05:19:49 Asia/Dhaka] PHP Notice:  Undefined variable: amount in /home/rexbdnet/public_html/idealbrothers/wallet/account/requestsend.php on line 106
+[15-Jan-2017 05:20:19 Asia/Dhaka] PHP Notice:  Undefined variable: amount in /home/rexbdnet/public_html/idealbrothers/wallet/account/requestsend.php on line 101
+[15-Jan-2017 05:20:20 Asia/Dhaka] PHP Notice:  Undefined variable: amount in /home/rexbdnet/public_html/idealbrothers/wallet/account/requestsend.php on line 106
